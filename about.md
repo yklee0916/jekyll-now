@@ -4,6 +4,12 @@ title: About
 permalink: /about/
 ---
 
+> 이영기 <br>
+> 대한민국 / 서울 <br><br>
+> 010-3547-2054 <br>
+> yugi87@naver.com <br>
+
+
 ## T map
 
 <a href="https://itunes.apple.com/kr/app/t-map-for-all/id431589174?mt=8">
