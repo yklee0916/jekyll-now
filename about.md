@@ -33,19 +33,21 @@ iOS 클라이언트 개발 / Objective-C, Swift
 <div>
 <div class="heading">주요 업무</div> 
 
-* T map iOS 앱 개발
-
-	* 티맵 길안내 음성기능
-	* 티맵 길안내 안전운전 기능
-	* 길안내 GPS 위치 보정 기술
-	* 블랙박스 녹화 기능
-	* AI NUGU 미디어 기능
-	* Push Notification 기능
-
-* 빌드 및 배포 자동화 시스템 개발
-
-	* CI 서버 구축 및 배포 자동화 
-
+<ul>
+<li> T map iOS 앱 개발 </li>
+<ul>
+<li> 티맵 길안내 음성기능 </li>
+<li> 티맵 길안내 안전운전 기능 </li>
+<li> 길안내 GPS 위치 보정 기술 </li>
+<li> 블랙박스 녹화 기능 </li>
+<li> AI NUGU 미디어 기능 </li>
+<li> Push Notification 기능 </li>
+</ul>
+<li>  빌드 및 배포 자동화 시스템 개발 </li>
+<ul>
+<li> CI 서버 구축 및 배포 자동화 </li>
+</ul>
+</ul>
 </div><br>
 
 ## OK Cashbag
