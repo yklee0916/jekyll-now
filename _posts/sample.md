@@ -1,3 +1,9 @@
+---
+layout: post
+title:  "Github Pages 에 올리는 첫 글"
+date:   2015-01-28 17:30:00
+---
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/yklee0916/yklee0916.github.com/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
